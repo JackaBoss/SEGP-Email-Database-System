@@ -1,0 +1,12 @@
+{
+  "name": "IMAPSourceConnectorConnector_0",
+  "config": {
+    "connector.class" : "com.github.jcustenborder.kafka.connect.email.IMAPSourceConnector",
+    "imap.hostname" : "imap.gmail.com",
+    "imap.username" : "testingprojecc2020@gmail.com",
+    "imap.password" : "Password2020*&",
+    "imap.folder" : "INBOX",
+    "imap.topic" : "email"
+  }
+}
+  

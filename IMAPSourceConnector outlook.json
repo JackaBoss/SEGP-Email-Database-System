@@ -6,7 +6,7 @@
     "imap.username" : "testingprojecc2020@outlook.com",
     "imap.password" : "Password2020*&",
     "imap.folder" : "INBOX",
-    "imap.topic" : "email"
+    "imap.topic" : "outlook"
   }
 }
   
